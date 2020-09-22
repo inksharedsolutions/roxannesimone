@@ -12,7 +12,6 @@ import {
 } from "mdbreact";
 // import "../../assets/scss/banner.scss";
 import Logo from "../../../static/img/banner.png";
-import MDBParallaxWrapper from './MDBParallaxWrapper';
 import { Link } from "gatsby";
 
 class Banner extends React.Component {
