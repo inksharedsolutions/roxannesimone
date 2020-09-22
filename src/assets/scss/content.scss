@@ -62,12 +62,14 @@
             content: '';
         }
 
-        button {
+        #frontBook {
             display: block;
-            background-color: #e8dda5;
             border: none;
             padding: 2% 40px;
             border-radius: 21px;
+            width: 90vh;
+            height: 40vh;
+            padding-left: 7rem;
         }
 
     }

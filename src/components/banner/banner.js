@@ -50,7 +50,7 @@ class Banner extends React.Component {
                                     <hr className="hr-light" />
                                     <h6 className="mb-4">
                                         This is a story of darkness, light, justice, faith, and the power of love.
-                                        Only time will tell if Mariah will triumph against the evil odds and emerge victorious
+                                        Only time will tell if Mariah will triumph against the evil odds and emerge victorious.
                   </h6>
                                     <MDBBtn outline color="white">
                                         <Link to="/about-the-book">Read More</Link>

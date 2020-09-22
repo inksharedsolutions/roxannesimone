@@ -14,16 +14,16 @@ const UpperMain = () => {
                             <h1>About The Book</h1>
 
                             <p>
-                                Mariah is a young single mother searching to hid herself,
-                                love, and enlightenment. She meets the eccentric old Reverend Blake,
-                                the preacher of an old abandoned haunted-looking castle church in Boorklyn,
-                                Mariah finds herself drawn to the reverend light amid chaos, confusion,
-                                despair, pressure and pain.
+                                In this exciting, incredulous debut novel by Lady Simone,
+                                Mariah is a young single mother searching to find herself,
+                                love, and enlightenment. She meets the eccentric old Reverend
+                                Blake, the preacher of an old abandoned haunted-looking castle
+                                church in Brooklyn.
                             </p>
 
-                            <button>
+                            {/* <button>
                                 <Link to="/about-the-book">Read More</Link>
-                            </button>
+                            </button> */}
 
                         </div>
 
@@ -32,6 +32,7 @@ const UpperMain = () => {
                                 className="img-fluid rounded"
                                 src={FrontBook}
                                 alt=""
+                                id="frontBook"
                             />
                             <a href="#!">
                                 <MDBMask overlay="white-slight" />

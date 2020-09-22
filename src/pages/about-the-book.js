@@ -13,7 +13,7 @@ const ATB = (props) => {
     const slug = (props.location.href);
 
     const disqusConfig = {
-        shortname: 'roxanne-simone',
+        shortname: 'lady-simone',
         config: { identifier: 12, slug }
     }
 
@@ -53,10 +53,10 @@ const ATB = (props) => {
                                 ebooks: {
                                     stratton: 'https://www.stratton-press.com/books/the-last-castle-in-brooklyn-out-of-the-darkness-comes-light/',
                                     barnes: 'https://www.barnesandnoble.com/w/the-last-castle-in-brooklyn-lady-simone/1135622811?ean=9781643458243',
-                                    amazon: 'https://www.amazon.com/Hell-Back-Again-Womans-Journal-ebook/dp/B07RN9MFXX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1557956504&sr=8-1',
+                                    amazon: 'https://www.amazon.com/Last-Castle-Brooklyn-Darkness-Comes-ebook/dp/B082VM9M8C/ref=sr_1_1?dchild=1&keywords=9781643458243&qid=1600769322&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.com/Hell-Back-Again-Womans-Journal-ebook/dp/B07RN9MFXX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1557956504&sr=8-1',
+                                    amazon: 'https://www.amazon.com/Last-Castle-Brooklyn-Darkness-Comes/dp/1643458264/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1600769357&sr=8-1',
                                     barnes: 'https://www.barnesandnoble.com/w/the-last-castle-in-brooklyn-lady-simone/1135622811?ean=9781643458267',
                                     booksamillion: 'https://www.booksamillion.com/p/Last-Castle-Brooklyn/Lady-Simone/9781643458267?id=7997864620895',
                                 }

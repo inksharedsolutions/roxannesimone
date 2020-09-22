@@ -17,12 +17,12 @@ const ATB = (props) => {
                     contextHeading={`Author`} />
 
                 <div className="container">
+                    <div className="author-image-container">
+                        <img src={AuthorImg} />
+                    </div>
                     <section className="body-author-contents columns">
 
                         <div className="heading-quote column">
-                            <div className="author-image-container">
-                                <img src={AuthorImg} />
-                            </div>
 
                             <div className="heading-quote">
                                 <h4>
@@ -34,13 +34,17 @@ const ATB = (props) => {
                             </div>
                         </div>
 
-                        <article className="article-section column" id="author">
+                        <article className="article-section row" id="author">
                             <p>
                                 Lady Simone is a doctor of naturopathy, pastor, entrepreneur, and author of five books,
-                                the latest being Financial Freedom by Faith. Her workshops, lectures, and seminars on natural
+                                the latest being <i>Financial Freedom by Faith</i>. Her workshops, lectures, and seminars on natural
                                 healing with iridology, healing with alternative medicine, the power of faith, and manifesting
                                 money set people free to live abundant, healthier lives and make her a captivating, sought-after
-                                motivational speaker. Visit www.drsimonelord.com for the addresses for juice bar, church, wellness
+                                motivational speaker.
+                            </p>
+
+                            <p>
+                                Visit <a href="www.drsimonelord.com" target="_blank">www.drsimonelord.com</a> for the addresses for juice bar, church, wellness
                                 center, books, health supplements, events, and upcoming retreats.
                             </p>
 
@@ -60,7 +64,7 @@ const ATB = (props) => {
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author |  Writer </span>
-                                    <span className="ata-name">Roxanne Simone </span>
+                                    <span className="ata-name">Lady Simone </span>
                                 </span>
                             </p>
                         </article>

@@ -22,11 +22,11 @@ const LowerMain = () => {
 
                             <p>
                                 Lady Simone is a doctor of naturopathy, pastor, entrepreneur,
-                                and author of five books, the latest being Financial Freed by
+                                and author of five books, the latest being Financial Freedom by
                                 Faith. Her workshops, lectures, and seminars on natural healing with
                                 iridology, healing with alternative medicine, the power of faith, and
-                                manifesting money set people free to live abundant, healthier lives
-                                and make her a captivating, sought-after motivational speaker.
+                                manifesting money set people free to live abundant, healthier lives and
+                                make her a captivating, sought-after motivational speaker.
                             </p>
 
                             <h1>

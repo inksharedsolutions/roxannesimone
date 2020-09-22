@@ -9,9 +9,9 @@ const Footer = () => {
         <>
             <footer className="footer-section">
                 <div className="container-gt" id="footer-info">
-                    <h1>RS.</h1>
+                    <h1>LS.</h1>
                     <p>
-                        Roxanne Simone loves to hear from readers. You can reach her via email.
+                        Lady Simone loves to hear from readers. You can reach her via email.
                         Feel free to send questions about writing, her works, interviews
                         and other publicity matters.
                     </p>
