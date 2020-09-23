@@ -9,6 +9,7 @@
                 text-decoration: none;
                 margin: 0 14px;
                 font-size: 1em;
+                color: #000000 !important;
             }
         }
     }
@@ -18,8 +19,8 @@
     }
 
     [aria-current="page"] {
-        border-bottom: 4px solid #657be4;
-        color: #5972e8 !important;
+        border-bottom: 4px solid #e8dda5;
+        color: #e8dda5 !important;
         ;
     }
 
