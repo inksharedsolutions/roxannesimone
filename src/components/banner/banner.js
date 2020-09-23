@@ -10,7 +10,7 @@ import {
     MDBAnimation,
     MDBCard, MDBCardUp, MDBAvatar, MDBCardBody, MDBIcon
 } from "mdbreact";
-// import "../../assets/scss/banner.scss";
+import "../../assets/scss/banner.scss";
 import Logo from "../../../static/img/banner.png";
 import { Link } from "gatsby";
 
