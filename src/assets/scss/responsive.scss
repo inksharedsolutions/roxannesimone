@@ -121,6 +121,21 @@
 
 @media screen and (max-width: 620px) {
 
+    .footer-section {
+        #footer-info {
+            padding-right: 3rem;
+            padding-left: 3rem;
+            text-align: center;
+
+            h1 {
+                font-size: 3em;
+                color: #ffff;
+                font-weight: 800;
+                letter-spacing: 6px;
+            }
+        }
+    }
+
     .banner-section {
         height: 90vh !important;
 

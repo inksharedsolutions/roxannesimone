@@ -22,18 +22,6 @@ const ATB = (props) => {
                     </div>
                     <section className="body-author-contents columns">
 
-                        <div className="heading-quote column">
-
-                            <div className="heading-quote">
-                                <h4>
-                                </h4>
-
-                                <span className="ata-span-fx">
-
-                                </span>
-                            </div>
-                        </div>
-
                         <article className="article-section row" id="author">
                             <p>
                                 Lady Simone is a doctor of naturopathy, pastor, entrepreneur, and author of five books,
