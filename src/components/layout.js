@@ -13,7 +13,7 @@ import '../assets/scss/layout.scss';
 const Layout = ({ children }) => {
     return (
         <>
-            <div className="scrollbar scrollbar-primary">
+            <div>
                 {children}
                 {/* <Footer /> */}
             </div>
