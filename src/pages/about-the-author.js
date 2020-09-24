@@ -32,7 +32,7 @@ const ATB = (props) => {
                             </p>
 
                             <p>
-                                Visit <a href="www.drsimonelord.com" target="_blank">www.drsimonelord.com</a> for the addresses for juice bar, church, wellness
+                                Visit <a href="http://drsimonelord.com/" target="_blank">www.drsimonelord.com</a> for the addresses for juice bar, church, wellness
                                 center, books, health supplements, events, and upcoming retreats.
                             </p>
 
